@@ -57,52 +57,59 @@ local function get_track_id(entry)
     end
 
     if type(entry) == "table" then
-        if entry.track then
-            return entry.track
-        end
-
-        if entry.id then
-            return entry.id
-        end
+        return entry.track or entry.id
     end
 
     return nil
 end
 
 local function reorder_menu_music_list(list)
-    if type(list) ~= "table" then
-        return list
-    end
-
     local ordered = {}
-    local seen = {}
+    local used = {}
 
-    for _, music_id in ipairs(menu_music_order) do
+    for _, wanted_id in ipairs(menu_music_order) do
         for _, entry in ipairs(list) do
-            local entry_id = get_track_id(entry)
-            if entry_id == music_id and not seen[music_id] then
+            local track_id = get_track_id(entry)
+
+            if track_id == wanted_id and not used[track_id] then
                 table.insert(ordered, entry)
-                seen[music_id] = true
+                used[track_id] = true
                 break
             end
         end
     end
 
     for _, entry in ipairs(list) do
-        local entry_id = get_track_id(entry)
-        if entry_id and not seen[entry_id] then
+        local track_id = get_track_id(entry)
+
+        if not track_id or not used[track_id] then
             table.insert(ordered, entry)
-            seen[entry_id] = true
+
+            if track_id then
+                used[track_id] = true
+            end
         end
     end
 
     return ordered
 end
 
-Hooks:PostHook(TweakData, "init", "toaru_menu_music_order_reorder", function(self)
-    if not self.music or type(self.music.track_menu_list) ~= "table" then
-        return
-    end
+Hooks:PostHook(
+    MusicManager,
+    "init",
+    "ToaruMenuMusicOrder",
+    function(self)
+        if not tweak_data.music then
+            return
+        end
 
-    self.music.track_menu_list = reorder_menu_music_list(self.music.track_menu_list)
-end)
+        local track_menu_list = tweak_data.music.track_menu_list
+
+        if type(track_menu_list) ~= "table" then
+            return
+        end
+
+        tweak_data.music.track_menu_list =
+            reorder_menu_music_list(track_menu_list)
+    end
+)
