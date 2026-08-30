@@ -1,0 +1,151 @@
+{
+    "menu_jukebox_index-1_omen": "Omen (Index)",
+    "menu_jukebox_screen_index-1_omen": "Omen (Index)",
+
+    "menu_jukebox_index-1_destiny_begins": "Destiny Begins (Index)",
+    "menu_jukebox_screen_index-1_destiny_begins": "Destiny Begins (Index)",
+
+    "menu_jukebox_index-1_overdrive": "Overdrive (Index)",
+    "menu_jukebox_screen_index-1_overdrive": "Overdrive (Index)",
+
+    "menu_jukebox_index-1_entry_to_darkness": "Entry to Darkness (Index)",
+    "menu_jukebox_screen_index-1_entry_to_darkness": "Entry to Darkness (Index)",
+
+    "menu_jukebox_index-1_emptiness": "Emptiness (Index)",
+    "menu_jukebox_screen_index-1_emptiness": "Emptiness (Index)",
+
+    "menu_jukebox_index-1_impatience": "Impatience (Index)",
+    "menu_jukebox_screen_index-1_impatience": "Impatience (Index)",
+
+    "menu_jukebox_index-1_academy_city": "Academy City (Index)",
+    "menu_jukebox_screen_index-1_academy_city": "Academy City (Index)",
+
+    "menu_jukebox_index-1_daily_life": "Daily Life (Index)",
+    "menu_jukebox_screen_index-1_daily_life": "Daily Life (Index)",
+
+    "menu_jukebox_index-1_hurry_up": "Hurry Up (Index)",
+    "menu_jukebox_screen_index-1_hurry_up": "Hurry Up (Index)",
+
+    "menu_jukebox_index-1_heat_island": "Heat Island (Index)",
+    "menu_jukebox_screen_index-1_heat_island": "Heat Island (Index)",
+
+    "menu_jukebox_index-1_calm_days": "Calm Days (Index)",
+    "menu_jukebox_screen_index-1_calm_days": "Calm Days (Index)",
+
+    "menu_jukebox_index-1_strain": "Strain (Index)",
+    "menu_jukebox_screen_index-1_strain": "Strain (Index)",
+
+    "menu_jukebox_index-1_great_power": "Great Power (Index)",
+    "menu_jukebox_screen_index-1_great_power": "Great Power (Index)",
+
+    "menu_jukebox_index-1_curse": "Curse (Index)",
+    "menu_jukebox_screen_index-1_curse": "Curse (Index)",
+
+    "menu_jukebox_index-1_one_way_road": "One Way Road (Index)",
+    "menu_jukebox_screen_index-1_one_way_road": "One Way Road (Index)",
+
+    "menu_jukebox_index-1_that_which_emerges_from_obscurity": "That Which Emerges From Obscurity (Index)",
+    "menu_jukebox_screen_index-1_that_which_emerges_from_obscurity": "That Which Emerges From Obscurity (Index)",
+
+    "menu_jukebox_index-1_alchemy": "Alchemy (Index)",
+    "menu_jukebox_screen_index-1_alchemy": "Alchemy (Index)",
+
+    "menu_jukebox_index-1_runaway": "Runaway (Index)",
+    "menu_jukebox_screen_index-1_runaway": "Runaway (Index)",
+
+    "menu_jukebox_index-1_anger": "Anger (Index)",
+    "menu_jukebox_screen_index-1_anger": "Anger (Index)",
+
+    "menu_jukebox_index-1_king_of_witch_hunters": "King of Witch Hunters (Index)",
+    "menu_jukebox_screen_index-1_king_of_witch_hunters": "King of Witch Hunters (Index)",
+
+    "menu_jukebox_index-1_time_limit": "Time Limit (Index)",
+    "menu_jukebox_screen_index-1_time_limit": "Time Limit (Index)",
+
+    "menu_jukebox_index-1_vampire_killer": "Vampire Killer (Index)",
+    "menu_jukebox_screen_index-1_vampire_killer": "Vampire Killer (Index)",
+
+    "menu_jukebox_index-1_the_thing_you_lost": "The Thing You Lost (Index)",
+    "menu_jukebox_screen_index-1_the_thing_you_lost": "The Thing You Lost (Index)",
+
+    "menu_jukebox_index-1_confusion": "Confusion (Index)",
+    "menu_jukebox_screen_index-1_confusion": "Confusion (Index)",
+
+    "menu_jukebox_index-1_imagine_breaker": "Imagine Breaker (Index)",
+    "menu_jukebox_screen_index-1_imagine_breaker": "Imagine Breaker (Index)",
+
+    "menu_jukebox_index-1_power_to_confront": "Power to Confront (Index)",
+    "menu_jukebox_screen_index-1_power_to_confront": "Power to Confront (Index)",
+
+    "menu_jukebox_index-1_summer_sunshine": "Summer Sunshine (Index)",
+    "menu_jukebox_screen_index-1_summer_sunshine": "Summer Sunshine (Index)",
+
+    "menu_jukebox_index-1_with_the_usual_friend": "With the Usual Friend (Index)",
+    "menu_jukebox_screen_index-1_with_the_usual_friend": "With the Usual Friend (Index)",
+
+    "menu_jukebox_index-1_im_hungry": "I'm Hungry (Index)",
+    "menu_jukebox_screen_index-1_im_hungry": "I'm Hungry (Index)",
+
+    "menu_jukebox_index-1_index": "Index (Index)",
+    "menu_jukebox_screen_index-1_index": "Index (Index)",
+
+    "menu_jukebox_index-1_road_to_school": "Road to School (Index)",
+    "menu_jukebox_screen_index-1_road_to_school": "Road to School (Index)",
+
+    "menu_jukebox_index-1_funny_days": "Funny Days (Index)",
+    "menu_jukebox_screen_index-1_funny_days": "Funny Days (Index)",
+
+    "menu_jukebox_index-1_super_mobile_girl_kanamin_theme": "\"Super Mobile Girl Kanamin\" Theme (Index)",
+    "menu_jukebox_screen_index-1_super_mobile_girl_kanamin_theme": "\"Super Mobile Girl Kanamin\" Theme (Index)",
+
+    "menu_jukebox_index-1_daily_life_for_the_miss": "Daily Life for the Miss (Index)",
+    "menu_jukebox_screen_index-1_daily_life_for_the_miss": "Daily Life for the Miss (Index)",
+
+    "menu_jukebox_index-1_sector_i_five_elements_institution": "Sector I Five Elements Institution (Index)",
+    "menu_jukebox_screen_index-1_sector_i_five_elements_institution": "Sector I Five Elements Institution (Index)",
+
+    "menu_jukebox_index-1_despair": "Despair (Index)",
+    "menu_jukebox_screen_index-1_despair": "Despair (Index)",
+
+    "menu_jukebox_index-1_impatience_2": "Impatience 2 (Index)",  
+    "menu_jukebox_screen_index-1_impatience_2": "Impatience 2 (Index)",
+
+    "menu_jukebox_index-1_turnabout": "Turnabout (Index)",
+    "menu_jukebox_screen_index-1_turnabout": "Turnabout (Index)",
+
+    "menu_jukebox_index-1_the_thing_you_wanted": "The Thing You Wanted (Index)",
+    "menu_jukebox_screen_index-1_the_thing_you_wanted": "The Thing You Wanted (Index)",
+
+    "menu_jukebox_index-1_inhuman_one": "Inhuman One (Index)",
+    "menu_jukebox_screen_index-1_inhuman_one": "Inhuman One (Index)",
+
+    "menu_jukebox_index-1_magic_society": "Magic Society (Index)",
+    "menu_jukebox_screen_index-1_magic_society": "Magic Society (Index)",
+
+    "menu_jukebox_index-1_into_darkness": "Into Darkness (Index)",
+    "menu_jukebox_screen_index-1_into_darkness": "Into Darkness (Index)",
+
+    "menu_jukebox_index-1_stillness_of_light": "Stillness of Light (Index)",
+    "menu_jukebox_screen_index-1_stillness_of_light": "Stillness of Light (Index)",
+
+    "menu_jukebox_index-1_breakthrough": "Breakthrough (Index)",
+    "menu_jukebox_screen_index-1_breakthrough": "Breakthrough (Index)",
+
+    "menu_jukebox_index-1_in_a_heart": "In a Heart (Index)",
+    "menu_jukebox_screen_index-1_in_a_heart": "In a Heart (Index)",
+
+    "menu_jukebox_index-1_ones_one_feelings": "Ones One Feelings (Index)",
+    "menu_jukebox_screen_index-1_ones_one_feelings": "Ones One Feelings (Index)",
+
+    "menu_jukebox_index-1_nice_conclusion": "Nice Conclusion (Index)",
+    "menu_jukebox_screen_index-1_nice_conclusion": "Nice Conclusion (Index)",
+
+    "menu_jukebox_index-1_feather_of_light": "Feather of Light (Index)",
+    "menu_jukebox_screen_index-1_feather_of_light": "Feather of Light (Index)",
+
+    "menu_jukebox_index-1_the_thing_you_cant_get_back": "The Thing You Can't Get Back (Index)",
+    "menu_jukebox_screen_index-1_the_thing_you_cant_get_back": "The Thing You Can't Get Back (Index)",
+
+    "menu_jukebox_index-1_then_once_more": "Then Once More (Index)",
+    "menu_jukebox_screen_index-1_then_once_more": "Then Once More (Index)"
+}
