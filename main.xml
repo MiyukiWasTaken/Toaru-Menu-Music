@@ -1,9 +1,6 @@
-<table name="A Certain Magical Index">
-
+<table name="Soundtracks">
     <Localization directory="loc" default="en.txt"/>
-
-
-
+    
     <!-- Toaru Majutsu no Index soundtracks -->
 
     <MenuMusic
