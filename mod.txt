@@ -1,7 +1,7 @@
 {
 	"name": "Toaru Menu Musics",
 	"description": "Custom menu music from the Toaru universe, which groups the Index, Railgun and Accelerator OSTs.",
-	"author": "Miyuki,
+	"author": "Miyuki",
 	"contact": "arobasemiyuki on discord",
 	"version": "1.0",
 	"blt_version": 2,
