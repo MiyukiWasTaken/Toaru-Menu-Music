@@ -6,4 +6,14 @@
 	"version": "1.0",
 	"blt_version": 2,
 	"main": "main.xml"
+	"updates": [
+		{
+			"identifier": "toaru_menu_musics",
+			"host": {
+				"meta": "https://modworkshop.net/mod/updates?src=mod&id=58811",
+				"download": "https://modworkshop.net/mod/download?src=mod&id=58811",
+				"patchnotes": "https://modworkshop.net/mod/58811"
+			}
+		}
+	]
 }
