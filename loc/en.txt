@@ -1,151 +1,172 @@
 {
-    "menu_jukebox_index-1_omen": "Omen (Index)",
-    "menu_jukebox_screen_index-1_omen": "Omen (Index)",
+    "menu_jukebox_index-1_psi-missing": "PSI-Missing (Index) [Opening]",
+    "menu_jukebox_screen_index-1_psi-missing": "PSI-Missing (Index) [Opening]",
 
-    "menu_jukebox_index-1_destiny-begins": "Destiny Begins (Index)",
-    "menu_jukebox_screen_index-1_destiny-begins": "Destiny Begins (Index)",
-
-    "menu_jukebox_index-1_overdrive": "Overdrive (Index)",
-    "menu_jukebox_screen_index-1_overdrive": "Overdrive (Index)",
-
-    "menu_jukebox_index-1_entry-to-darkness": "Entry to Darkness (Index)",
-    "menu_jukebox_screen_index-1_entry-to-darkness": "Entry to Darkness (Index)",
-
-    "menu_jukebox_index-1_emptiness": "Emptiness (Index)",
-    "menu_jukebox_screen_index-1_emptiness": "Emptiness (Index)",
-
-    "menu_jukebox_index-1_impatience": "Impatience (Index)",
-    "menu_jukebox_screen_index-1_impatience": "Impatience (Index)",
+    "menu_jukebox_index-1_masterpiece": "masterpiece (Index) [Opening]",
+    "menu_jukebox_screen_index-1_masterpiece": "masterpiece (Index) [Opening]",
 
     "menu_jukebox_index-1_academy-city": "Academy City (Index)",
     "menu_jukebox_screen_index-1_academy-city": "Academy City (Index)",
 
-    "menu_jukebox_index-1_daily-life": "Daily Life (Index)",
-    "menu_jukebox_screen_index-1_daily-life": "Daily Life (Index)",
-
-    "menu_jukebox_index-1_hurry-up": "Hurry Up (Index)",
-    "menu_jukebox_screen_index-1_hurry-up": "Hurry Up (Index)",
-
-    "menu_jukebox_index-1_heat-island": "Heat Island (Index)",
-    "menu_jukebox_screen_index-1_heat-island": "Heat Island (Index)",
-
-    "menu_jukebox_index-1_calm-days": "Calm Days (Index)",
-    "menu_jukebox_screen_index-1_calm-days": "Calm Days (Index)",
-
-    "menu_jukebox_index-1_strain": "Strain (Index)",
-    "menu_jukebox_screen_index-1_strain": "Strain (Index)",
-
-    "menu_jukebox_index-1_great-power": "Great Power (Index)",
-    "menu_jukebox_screen_index-1_great-power": "Great Power (Index)",
-
-    "menu_jukebox_index-1_curse": "Curse (Index)",
-    "menu_jukebox_screen_index-1_curse": "Curse (Index)",
-
-    "menu_jukebox_index-1_one-way-road": "One Way Road (Index)",
-    "menu_jukebox_screen_index-1_one-way-road": "One Way Road (Index)",
-
-    "menu_jukebox_index-1_that-which-emerges-from-obscurity": "That Which Emerges From Obscurity (Index)",
-    "menu_jukebox_screen_index-1_that-which-emerges-from-obscurity": "That Which Emerges From Obscurity (Index)",
-
-    "menu_jukebox_index-1_alchemy": "Alchemy (Index)",
-    "menu_jukebox_screen_index-1_alchemy": "Alchemy (Index)",
-
-    "menu_jukebox_index-1_runaway": "Runaway (Index)",
-    "menu_jukebox_screen_index-1_runaway": "Runaway (Index)",
-
     "menu_jukebox_index-1_anger": "Anger (Index)",
     "menu_jukebox_screen_index-1_anger": "Anger (Index)",
 
-    "menu_jukebox_index-1_king-of-witch-hunters": "King of Witch Hunters (Index)",
-    "menu_jukebox_screen_index-1_king-of-witch-hunters": "King of Witch Hunters (Index)",
-
-    "menu_jukebox_index-1_time-limit": "Time Limit (Index)",
-    "menu_jukebox_screen_index-1_time-limit": "Time Limit (Index)",
-
-    "menu_jukebox_index-1_vampire-killer": "Vampire Killer (Index)",
-    "menu_jukebox_screen_index-1_vampire-killer": "Vampire Killer (Index)",
-
-    "menu_jukebox_index-1_the-thing-you-lost": "The Thing You Lost (Index)",
-    "menu_jukebox_screen_index-1_the-thing-you-lost": "The Thing You Lost (Index)",
-
-    "menu_jukebox_index-1_confusion": "Confusion (Index)",
-    "menu_jukebox_screen_index-1_confusion": "Confusion (Index)",
-
-    "menu_jukebox_index-1_imagine-breaker": "Imagine Breaker (Index)",
-    "menu_jukebox_screen_index-1_imagine-breaker": "Imagine Breaker (Index)",
-
-    "menu_jukebox_index-1_power-to-confront": "Power to Confront (Index)",
-    "menu_jukebox_screen_index-1_power-to-confront": "Power to Confront (Index)",
-
-    "menu_jukebox_index-1_summer-sunshine": "Summer Sunshine (Index)",
-    "menu_jukebox_screen_index-1_summer-sunshine": "Summer Sunshine (Index)",
-
-    "menu_jukebox_index-1_with-the-usual-friend": "With the Usual Friend (Index)",
-    "menu_jukebox_screen_index-1_with-the-usual-friend": "With the Usual Friend (Index)",
-
-    "menu_jukebox_index-1_im-hungry": "I'm Hungry (Index)",
-    "menu_jukebox_screen_index-1_im-hungry": "I'm Hungry (Index)",
-
-    "menu_jukebox_index-1_index": "Index (Index)",
-    "menu_jukebox_screen_index-1_index": "Index (Index)",
-
-    "menu_jukebox_index-1_road-to-school": "Road to School (Index)",
-    "menu_jukebox_screen_index-1_road-to-school": "Road to School (Index)",
-
-    "menu_jukebox_index-1_funny-days": "Funny Days (Index)",
-    "menu_jukebox_screen_index-1_funny-days": "Funny Days (Index)",
-
-    "menu_jukebox_index-1_super-mobile-girl-kanamin-theme": "\"Super Mobile Girl Kanamin\" Theme (Index)",
-    "menu_jukebox_screen_index-1_super-mobile-girl-kanamin-theme": "\"Super Mobile Girl Kanamin\" Theme (Index)",
-
-    "menu_jukebox_index-1_daily-life-for-the-miss": "Daily Life for the Miss (Index)",
-    "menu_jukebox_screen_index-1_daily-life-for-the-miss": "Daily Life for the Miss (Index)",
-
-    "menu_jukebox_index-1_sector-i-five-elements-institution": "Sector I Five Elements Institution (Index)",
-    "menu_jukebox_screen_index-1_sector-i-five-elements-institution": "Sector I Five Elements Institution (Index)",
+    "menu_jukebox_index-1_daily-life": "Daily Life (Index)",
+    "menu_jukebox_screen_index-1_daily-life": "Daily Life (Index)",
 
     "menu_jukebox_index-1_despair": "Despair (Index)",
     "menu_jukebox_screen_index-1_despair": "Despair (Index)",
 
-    "menu_jukebox_index-1_impatience-2": "Impatience 2 (Index)",
-    "menu_jukebox_screen_index-1_impatience-2": "Impatience 2 (Index)",
+    "menu_jukebox_index-1_destiny-begins": "Destiny Begins (Index)",
+    "menu_jukebox_screen_index-1_destiny-begins": "Destiny Begins (Index)",
 
-    "menu_jukebox_index-1_turnabout": "Turnabout (Index)",
-    "menu_jukebox_screen_index-1_turnabout": "Turnabout (Index)",
+    "menu_jukebox_index-1_funny-days": "Funny Days (Index)",
+    "menu_jukebox_screen_index-1_funny-days": "Funny Days (Index)",
 
-    "menu_jukebox_index-1_the-thing-you-wanted": "The Thing You Wanted (Index)",
-    "menu_jukebox_screen_index-1_the-thing-you-wanted": "The Thing You Wanted (Index)",
+    "menu_jukebox_index-1_hurry-up": "Hurry Up (Index)",
+    "menu_jukebox_screen_index-1_hurry-up": "Hurry Up (Index)",
 
-    "menu_jukebox_index-1_inhuman-one": "Inhuman One (Index)",
-    "menu_jukebox_screen_index-1_inhuman-one": "Inhuman One (Index)",
+    "menu_jukebox_index-1_impatience": "Impatience (Index)",
+    "menu_jukebox_screen_index-1_impatience": "Impatience (Index)",
 
-    "menu_jukebox_index-1_magic-society": "Magic Society (Index)",
-    "menu_jukebox_screen_index-1_magic-society": "Magic Society (Index)",
+    "menu_jukebox_index-1_omen": "Omen (Index)",
+    "menu_jukebox_screen_index-1_omen": "Omen (Index)",
 
-    "menu_jukebox_index-1_into-darkness": "Into Darkness (Index)",
-    "menu_jukebox_screen_index-1_into-darkness": "Into Darkness (Index)",
+    "menu_jukebox_index-1_road-to-school": "Road to School (Index)",
+    "menu_jukebox_screen_index-1_road-to-school": "Road to School (Index)",
 
-    "menu_jukebox_index-1_stillness-of-light": "Stillness of Light (Index)",
-    "menu_jukebox_screen_index-1_stillness-of-light": "Stillness of Light (Index)",
-
-    "menu_jukebox_index-1_breakthrough": "Breakthrough (Index)",
-    "menu_jukebox_screen_index-1_breakthrough": "Breakthrough (Index)",
-
-    "menu_jukebox_index-1_in-a-heart": "In a Heart (Index)",
-    "menu_jukebox_screen_index-1_in-a-heart": "In a Heart (Index)",
-
-    "menu_jukebox_index-1_ones-one-feelings": "Ones One Feelings (Index)",
-    "menu_jukebox_screen_index-1_ones-one-feelings": "Ones One Feelings (Index)",
-
-    "menu_jukebox_index-1_nice-conclusion": "Nice Conclusion (Index)",
-    "menu_jukebox_screen_index-1_nice-conclusion": "Nice Conclusion (Index)",
-
-    "menu_jukebox_index-1_feather-of-light": "Feather of Light (Index)",
-    "menu_jukebox_screen_index-1_feather-of-light": "Feather of Light (Index)",
+    "menu_jukebox_index-1_summer-sunshine": "Summer Sunshine (Index)",
+    "menu_jukebox_screen_index-1_summer-sunshine": "Summer Sunshine (Index)",
 
     "menu_jukebox_index-1_the-thing-you-cant-get-back": "The Thing You Can't Get Back (Index)",
     "menu_jukebox_screen_index-1_the-thing-you-cant-get-back": "The Thing You Can't Get Back (Index)",
 
-    "menu_jukebox_index-1_then-once-more": "Then Once More (Index)",
-    "menu_jukebox_screen_index-1_then-once-more": "Then Once More (Index)"
+    "menu_jukebox_index-1_vampire-killer": "Vampire Killer (Index)",
+    "menu_jukebox_screen_index-1_vampire-killer": "Vampire Killer (Index)",
+
+    "menu_jukebox_index-1_with-the-usual-friend": "With the Usual Friend (Index)",
+    "menu_jukebox_screen_index-1_with-the-usual-friend": "With the Usual Friend (Index)",
+
+    "menu_jukebox_railgun_only-my-railgun": "only my railgun (Railgun) [Opening]",
+    "menu_jukebox_screen_railgun_only-my-railgun": "only my railgun (Railgun) [Opening]",
+
+    "menu_jukebox_railgun_level5-judelight": "LEVEL5-judgelight (Railgun) [Opening]",
+    "menu_jukebox_screen_railgun_level5-judelight": "LEVEL5-judgelight (Railgun) [Opening]",
+
+    "menu_jukebox_railgun_future-gazer-railgun-ova": "future gazer (Railgun OVA) [Opening]",
+    "menu_jukebox_screen_railgun_future-gazer-railgun-ova": "future gazer (Railgun OVA) [Opening]",
+
+    "menu_jukebox_railgun_determination": "Determination (Railgun)",
+    "menu_jukebox_screen_railgun_determination": "Determination (Railgun)",
+
+    "menu_jukebox_railgun_hopeless-feeling": "Hopeless Feeling (Railgun)",
+    "menu_jukebox_screen_railgun_hopeless-feeling": "Hopeless Feeling (Railgun)",
+
+    "menu_jukebox_railgun_place-to-return": "Place to Return (Railgun)",
+    "menu_jukebox_screen_railgun_place-to-return": "Place to Return (Railgun)",
+
+    "menu_jukebox_railgun_plot": "Plot (Railgun)",
+    "menu_jukebox_screen_railgun_plot": "Plot (Railgun)",
+
+    "menu_jukebox_railgun_reality-to-confront": "Reality to Confront (Railgun)",
+    "menu_jukebox_screen_railgun_reality-to-confront": "Reality to Confront (Railgun)",
+
+    "menu_jukebox_railgun_searcher": "Searcher (Railgun)",
+    "menu_jukebox_screen_railgun_searcher": "Searcher (Railgun)",
+
+    "menu_jukebox_railgun_tea-time": "Tea Time (Railgun)",
+    "menu_jukebox_screen_railgun_tea-time": "Tea Time (Railgun)",
+
+    "menu_jukebox_railgun_that-day-continued": "That Day Continued (Railgun)",
+    "menu_jukebox_screen_railgun_that-day-continued": "That Day Continued (Railgun)",
+
+    "menu_jukebox_railgun_that-which-is-rumored": "That Which Is Rumored (Railgun)",
+    "menu_jukebox_screen_railgun_that-which-is-rumored": "That Which Is Rumored (Railgun)",
+
+    "menu_jukebox_railgun_this": "This... (Railgun)",
+    "menu_jukebox_screen_railgun_this": "This... (Railgun)",
+
+    "menu_jukebox_railgun_unstoppable-reason": "Unstoppable Reason (Railgun)",
+    "menu_jukebox_screen_railgun_unstoppable-reason": "Unstoppable Reason (Railgun)",
+
+    "menu_jukebox_railgun_with-the-usual-friend": "With the Usual Friend (Railgun)",
+    "menu_jukebox_screen_railgun_with-the-usual-friend": "With the Usual Friend (Railgun)",
+
+    "menu_jukebox_index-2_no-buts": "No buts! (Index II) [Opening]",
+    "menu_jukebox_screen_index-2_no-buts": "No buts! (Index II) [Opening]",
+
+    "menu_jukebox_index-2_see-visions": "See visionS (Index II) [Opening]",
+    "menu_jukebox_screen_index-2_see-visions": "See visionS (Index II) [Opening]",
+
+    "menu_jukebox_index-2_amakusa-style-remix-of-church": "Amakusa Style Remix of Church (Index II)",
+    "menu_jukebox_screen_index-2_amakusa-style-remix-of-church": "Amakusa Style Remix of Church (Index II)",
+
+    "menu_jukebox_index-2_introducing-the-strongest": "Introducing the Strongest (Index II)",
+    "menu_jukebox_screen_index-2_introducing-the-strongest": "Introducing the Strongest (Index II)",
+
+    "menu_jukebox_index-2_misakas-sister": "Misaka's Sister (Index II)",
+    "menu_jukebox_screen_index-2_misakas-sister": "Misaka's Sister (Index II)",
+
+    "menu_jukebox_index-2_quiet-stratagem": "Quiet Stratagem (Index II)",
+    "menu_jukebox_screen_index-2_quiet-stratagem": "Quiet Stratagem (Index II)",
+
+    "menu_jukebox_index-2_study": "STUDY (Index II)",
+    "menu_jukebox_screen_index-2_study": "STUDY (Index II)",
+
+    "menu_jukebox_railgun-s_sisters-noise": "sister's noise (Railgun S) [Opening]",
+    "menu_jukebox_screen_railgun-s_sisters-noise": "sister's noise (Railgun S) [Opening]",
+
+    "menu_jukebox_railgun-s_eternal-reality": "eternal reality (Railgun S) [Opening]",
+    "menu_jukebox_screen_railgun-s_eternal-reality": "eternal reality (Railgun S) [Opening]",
+
+    "menu_jukebox_railgun-s_accelerator": "Accelerator (Railgun S)",
+    "menu_jukebox_screen_railgun-s_accelerator": "Accelerator (Railgun S)",
+
+    "menu_jukebox_railgun-s_cruel-reality": "Cruel Reality (Railgun S)",
+    "menu_jukebox_screen_railgun-s_cruel-reality": "Cruel Reality (Railgun S)",
+
+    "menu_jukebox_railgun-s_determination-and-resolution": "Determination and Resolution (Railgun S)",
+    "menu_jukebox_screen_railgun-s_determination-and-resolution": "Determination and Resolution (Railgun S)",
+
+    "menu_jukebox_railgun-s_feeling-for-the-first-time": "Feeling for the First Time (Railgun S)",
+    "menu_jukebox_screen_railgun-s_feeling-for-the-first-time": "Feeling for the First Time (Railgun S)",
+
+    "menu_jukebox_railgun-s_level-6-shift-project": "Level 6 Shift Project (Railgun S)",
+    "menu_jukebox_screen_railgun-s_level-6-shift-project": "Level 6 Shift Project (Railgun S)",
+
+    "menu_jukebox_accelerator_shadow-is-the-light": "shadow is the light (Accelerator) [Opening]",
+    "menu_jukebox_screen_accelerator_shadow-is-the-light": "shadow is the light (Accelerator) [Opening]",
+
+    "menu_jukebox_accelerator_atmospheric-continuum-mechanics-research-facility": "Atmospheric Continuum Mechanics Research Facility (Accelerator)",
+    "menu_jukebox_screen_accelerator_atmospheric-continuum-mechanics-research-facility": "Atmospheric Continuum Mechanics Research Facility (Accelerator)",
+
+    "menu_jukebox_accelerator_thoughts-of-esther": "Thoughts of Esther (Accelerator)",
+    "menu_jukebox_screen_accelerator_thoughts-of-esther": "Thoughts of Esther (Accelerator)",
+
+    "menu_jukebox_accelerator_you-arent-a-waste": "You Aren't a Waste!!! (Accelerator)",
+    "menu_jukebox_screen_accelerator_you-arent-a-waste": "You Aren't a Waste!!! (Accelerator)",
+
+    "menu_jukebox_railgun-t_final-phase": "final phase (Railgun T) [Opening]",
+    "menu_jukebox_screen_railgun-t_final-phase": "final phase (Railgun T) [Opening]",
+
+    "menu_jukebox_railgun-t_dual-existence": "dual existence (Railgun T) [Opening]",
+    "menu_jukebox_screen_railgun-t_dual-existence": "dual existence (Railgun T) [Opening]",
+
+    "menu_jukebox_railgun-t_balloon-hunter": "Balloon Hunter (Railgun T)",
+    "menu_jukebox_screen_railgun-t_balloon-hunter": "Balloon Hunter (Railgun T)",
+
+    "menu_jukebox_railgun-t_my-genius-ability": "My Genius Ability ☆ (Railgun T)",
+    "menu_jukebox_screen_railgun-t_my-genius-ability": "My Genius Ability ☆ (Railgun T)",
+
+    "menu_jukebox_railgun-t_strawberry-yakisoba": "Strawberry Yakisoba (Railgun T)",
+    "menu_jukebox_screen_railgun-t_strawberry-yakisoba": "Strawberry Yakisoba (Railgun T)",
+
+    "menu_jukebox_index-3_gravitation": "Gravitation (Index III) [Opening]",
+    "menu_jukebox_screen_index-3_gravitation": "Gravitation (Index III) [Opening]",
+
+    "menu_jukebox_index-3_roar": "ROAR (Index III) [Opening]",
+    "menu_jukebox_screen_index-3_roar": "ROAR (Index III) [Opening]",
+
+    "menu_jukebox_index-3_dark-side-conflict": "Dark Side Conflict (Index III)",
+    "menu_jukebox_screen_index-3_dark-side-conflict": "Dark Side Conflict (Index III)"
 }
