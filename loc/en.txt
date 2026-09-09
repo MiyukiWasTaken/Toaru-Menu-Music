@@ -152,8 +152,8 @@
     "menu_jukebox_railgun-t_balloon-hunter": "Balloon Hunter (Railgun T)",
     "menu_jukebox_screen_railgun-t_balloon-hunter": "Balloon Hunter (Railgun T)",
 
-    "menu_jukebox_railgun-t_my-genius-ability": "My Genius Ability ☆ (Railgun T)",
-    "menu_jukebox_screen_railgun-t_my-genius-ability": "My Genius Ability ☆ (Railgun T)",
+    "menu_jukebox_railgun-t_my-genius-ability": "My Genius Ability (Railgun T)",
+    "menu_jukebox_screen_railgun-t_my-genius-ability": "My Genius Ability (Railgun T)",
 
     "menu_jukebox_railgun-t_strawberry-yakisoba": "Strawberry Yakisoba (Railgun T)",
     "menu_jukebox_screen_railgun-t_strawberry-yakisoba": "Strawberry Yakisoba (Railgun T)",
