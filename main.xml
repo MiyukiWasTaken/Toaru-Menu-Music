@@ -70,7 +70,7 @@
     <MenuMusic id="railgun-t_final-phase" source="soundtracks\Railgun T\final-phase.ogg" volume="0.8" />
     <MenuMusic id="railgun-t_dual-existence" source="soundtracks\Railgun T\dual-existence.ogg" volume="0.8" />
     <MenuMusic id="railgun-t_balloon-hunter" source="soundtracks\Railgun T\balloon-hunter.ogg" volume="0.8" />
-    <MenuMusic id="railgun-t_my-genius-ability" source="soundtracks\Railgun T\my-genius-ability-☆.ogg" volume="0.8" />
+    <MenuMusic id="railgun-t_my-genius-ability" source="soundtracks\Railgun T\my-genius-ability.ogg" volume="0.8" />
     <MenuMusic id="railgun-t_strawberry-yakisoba" source="soundtracks\Railgun T\strawberry-yakisoba.ogg" volume="0.8" />
 
     <!-- Toaru Majutsu no Index III soundtracks -->
