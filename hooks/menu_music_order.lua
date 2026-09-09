@@ -29,7 +29,6 @@ local menu_music_order = {
     "railgun_that-which-is-rumored",
     "railgun_this",
     "railgun_unstoppable-reason",
-    "railgun_with-the-usual-friend",
     "index-2_no-buts",
     "index-2_see-visions",
     "index-2_amakusa-style-remix-of-church",

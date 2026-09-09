@@ -89,9 +89,6 @@
     "menu_jukebox_railgun_unstoppable-reason": "Unstoppable Reason (Railgun)",
     "menu_jukebox_screen_railgun_unstoppable-reason": "Unstoppable Reason (Railgun)",
 
-    "menu_jukebox_railgun_with-the-usual-friend": "With the Usual Friend (Railgun)",
-    "menu_jukebox_screen_railgun_with-the-usual-friend": "With the Usual Friend (Railgun)",
-
     "menu_jukebox_index-2_no-buts": "No buts! (Index II) [Opening]",
     "menu_jukebox_screen_index-2_no-buts": "No buts! (Index II) [Opening]",
 

@@ -41,7 +41,6 @@
     <MenuMusic id="railgun_that-which-is-rumored" source="soundtracks\Railgun\that-which-is-rumored.ogg" volume="0.8" />
     <MenuMusic id="railgun_this" source="soundtracks\Railgun\this....ogg" volume="0.8" />
     <MenuMusic id="railgun_unstoppable-reason" source="soundtracks\Railgun\unstoppable-reason.ogg" volume="0.8" />
-    <MenuMusic id="railgun_with-the-usual-friend" source="soundtracks\Railgun\with-the-usual-friend.ogg" volume="0.8" />
 
     <!-- Toaru Majutsu no Index II soundtracks -->
     <MenuMusic id="index-2_no-buts" source="soundtracks\Index II\no-buts!.ogg" volume="0.8" />
