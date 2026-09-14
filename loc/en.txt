@@ -53,8 +53,8 @@
     "menu_jukebox_railgun_level5-judelight": "LEVEL5-judgelight (Railgun) [Opening]",
     "menu_jukebox_screen_railgun_level5-judelight": "LEVEL5-judgelight (Railgun) [Opening]",
 
-    "menu_jukebox_railgun_future-gazer-railgun-ova": "future gazer (Railgun OVA) [Opening]",
-    "menu_jukebox_screen_railgun_future-gazer-railgun-ova": "future gazer (Railgun OVA) [Opening]",
+    "menu_jukebox_railgun_future-gazer": "future gazer (Railgun OVA) [Opening]",
+    "menu_jukebox_screen_railgun_future-gazer": "future gazer (Railgun OVA) [Opening]",
 
     "menu_jukebox_railgun_determination": "Determination (Railgun)",
     "menu_jukebox_screen_railgun_determination": "Determination (Railgun)",

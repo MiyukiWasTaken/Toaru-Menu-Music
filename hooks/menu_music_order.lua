@@ -17,7 +17,7 @@ local menu_music_order = {
     "index-1_with-the-usual-friend",
     "railgun_only-my-railgun",
     "railgun_level5-judelight",
-    "railgun_future-gazer-railgun-ova",
+    "railgun_future-gazer",
     "railgun_determination",
     "railgun_hopeless-feeling",
     "railgun_place-to-return",
