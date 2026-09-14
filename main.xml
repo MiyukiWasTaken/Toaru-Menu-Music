@@ -90,27 +90,10 @@
     </Hooks>
 
     <!-- New Fight (From Toaru Majutsu no Index II) + Quiet Stratagem for Stealth (Toaru Kagaku no Railgun S) -->
-    <HeistMusic id="new-fight">
-        <event
-            name="setup"
-            source="soundtracks\Heist\New Fight\quiet-stratagem-stealth.ogg"
-        />
-
-        <event
-            name="control"
-            source="soundtracks\Heist\New Fight\new-fight-control.ogg"
-        />
-
-        <event
-            name="anticipation"
-            source="soundtracks\Heist\New Fight\new-fight-anticipation.ogg"
-        />
-
-        <event
-            name="assault"
-            source="soundtracks\Heist\New Fight\new-fight-assault.ogg"
-            start_source="soundtracks\Heist\New Fight\new-fight-assault-start.ogg"
-        />
+    <HeistMusic id="new-fight" directory="soundtracks\Heist\New Fight">
+        <event name="setup" source="quiet-stratagem-stealth.ogg"/>
+        <event name="control" source="new-fight-control.ogg"/>
+        <event name="anticipation" source="new-fight-anticipation.ogg"/>
+        <event name="assault" source="new-fight-assault.ogg" start_source="new-fight-assault-start.ogg"/>
     </HeistMusic>
-
 </table>
