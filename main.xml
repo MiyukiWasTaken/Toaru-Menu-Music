@@ -1,4 +1,4 @@
-<table name="Soundtracks">
+<table name="Menu">
     <Localization directory="loc" default="en.txt"/>
 
     <Hooks>
@@ -77,4 +77,40 @@
     <MenuMusic id="index-3_gravitation" source="soundtracks\Menu\Index III\gravitation.ogg" volume="0.7" />
     <MenuMusic id="index-3_roar" source="soundtracks\Menu\Index III\roar.ogg" volume="0.7" />
     <MenuMusic id="index-3_dark-side-conflict" source="soundtracks\Menu\Index III\dark-side-conflict.ogg" volume="0.6" />
+</table>
+
+<table name="Heist">
+    <Localization directory="loc" default="en.txt"/>
+
+    <Hooks>
+        <hook
+            source_file="lib/managers/musicmanager"
+            file="hooks/heist_music_order.lua"
+        />
+    </Hooks>
+
+    <!-- New Fight (From Toaru Majutsu no Index II) + Quiet Stratagem for Stealth (Toaru Kagaku no Railgun S) -->
+    <HeistMusic id="new-fight">
+        <event
+            name="setup"
+            source="soundtracks\Heist\New Fight\quiet-stratagem-stealth.ogg"
+        />
+
+        <event
+            name="control"
+            source="soundtracks\Heist\New Fight\new-fight-control.ogg"
+        />
+
+        <event
+            name="anticipation"
+            source="soundtracks\Heist\New Fight\new-fight-anticipation.ogg"
+        />
+
+        <event
+            name="assault"
+            source="soundtracks\Heist\New Fight\new-fight-assault.ogg"
+            start_source="soundtracks\Heist\New Fight\new-fight-assault-start.ogg"
+        />
+    </HeistMusic>
+
 </table>
