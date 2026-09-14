@@ -165,5 +165,8 @@
     "menu_jukebox_screen_index-3_roar": "ROAR (Index III) [Opening]",
 
     "menu_jukebox_index-3_dark-side-conflict": "Dark Side Conflict (Index III)",
-    "menu_jukebox_screen_index-3_dark-side-conflict": "Dark Side Conflict (Index III)"
+    "menu_jukebox_screen_index-3_dark-side-conflict": "Dark Side Conflict (Index III)",
+
+    "menu_jukebox_new-fight": "New Fight (Index II)",
+    "menu_jukebox_screen_new-fight": "New Fight (Index II)"
 }
