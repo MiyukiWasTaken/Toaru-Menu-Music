@@ -5,7 +5,7 @@
 	"contact": "arobasemiyuki on discord",
 	"version": "1.0",
 	"blt_version": 2,
-	"main": "main.xml"
+	"main": "main.xml",
 	"updates": [
 		{
 			"identifier": "toaru_menu_musics",
