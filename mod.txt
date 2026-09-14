@@ -1,5 +1,5 @@
 {
-	"name": "Toaru Menu ans Heist Musics",
+	"name": "Toaru Menu and Heist Musics",
 	"description": "Custom menu and heist music from the Toaru universe, which groups the Index, Railgun and Accelerator OSTs.",
 	"author": "Miyuki",
 	"contact": "arobasemiyuki on discord",
